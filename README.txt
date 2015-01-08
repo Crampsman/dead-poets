@@ -1,6 +1,6 @@
 Hi all, anyone interested in my project.
-This is my little training Projects in Java. "Dead Poets Society" is simply a web application, where you can
-send their little stories of science fiction. 
+This is my projects in Java. "Dead Poets Society" is a web application, where you can
+send your little stories of science fiction. 
 
 In this project, I used:
 
@@ -17,5 +17,4 @@ Registered user on your page can add publications, and sort them by status confi
 The administrator can add their publication, view other users publish and confirm them or delete them. Also, the administrator 
 can view a list of users, remove from the app or disable.
 
-This is my first experience in writing web-app in Java - do not judge strictly.
  
